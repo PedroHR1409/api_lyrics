@@ -55,6 +55,10 @@ Letras-de-Musicas/
     pip install -r requirements.txt
     ```
 
+5. Adicione uma pasta chamada ```logs```
+
+5. Adicione um arquivo chamado ```app.log``` dentro da pasta ```logs```
+
 ## Uso 💻
 
 1. Para iniciar a aplicação, execute:
